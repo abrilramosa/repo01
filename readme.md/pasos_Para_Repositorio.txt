@@ -1,0 +1,6 @@
+Primero hacemos cd para ir a Desktop
+Seguimos con mkdir para crear nuestro repositorio
+Una vez tenemos nuestro repositorio creado añadimos readme.md con git add "readme.md"
+Hacemos un commit para subirlo al repositorio local
+
+Finalmente hacemos un push para acabarlo de subir a un repositorio en remote
